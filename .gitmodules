@@ -1,0 +1,15 @@
+[submodule "2020-01-michelebruno"]
+	path = 2020-01-michelebruno
+	url = git@github.com:drawwithcode/2020-01-michelebruno.git
+[submodule "02-animated-texture-michelebruno"]
+	path = 02-animated-texture-michelebruno
+	url = git@github.com:drawwithcode/02-animated-texture-michelebruno.git
+[submodule "2020-03-michelebruno"]
+	path = 2020-03-michelebruno
+	url = git@github.com:drawwithcode/2020-03-michelebruno.git
+[submodule "2020-04-michelebruno"]
+	path = 2020-04-michelebruno
+	url = git@github.com:drawwithcode/2020-04-michelebruno.git
+[submodule "2020-05-michelebruno"]
+	path = 2020-05-michelebruno
+	url = git@github.com:drawwithcode/2020-05-michelebruno.git
